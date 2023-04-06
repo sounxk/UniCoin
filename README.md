@@ -59,4 +59,4 @@ The Cryptocurrency Exchange DApp is built using the following tools:
 Conclusion
 ----------
 
-The Cryptocurrency Exchange DApp is a decentralized application built using React and Cranq, and it is designed to work on the Goerli network. The DApp utilizes the Uniswap crypto exchange ecosystem to draw data and carry out transactions. Users can buy and sell cryptocurrencies using the DApp, and it is integrated with tools such as MetaMask and useDapp to simplify the process.
+The Cryptocurrency Exchange DApp is a decentralized application built using React and Cranq, and it is designed to work on the Goerli network. The DApp utilizes the Uniswap crypto exchange ecosystem to draw data and carry out transactions. Users are able to buy and sell cryptocurrencies using the DApp, and it is integrated with tools such as MetaMask and useDapp to simplify the process.
