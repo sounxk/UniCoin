@@ -1,7 +1,7 @@
 UniCoin
 ==========================================
 
-This documentation provides an overview of UniCoin- A Cryptocurrency Exchange DApp, a decentralized application built using React and Cranq, and it is designed to work on the Goerli network. The DApp utilizes the Uniswap crypto exchange ecosystem to draw data and carry out transactions.
+This documentation provides an overview of UniCoin - A Cryptocurrency Exchange DApp, a decentralized application built using React and Cranq, and it is designed to work on the Goerli network. The DApp utilizes the Uniswap crypto exchange ecosystem to draw data and carry out transactions.
 
 Installation
 ------------
